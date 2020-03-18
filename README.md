@@ -1,5 +1,5 @@
 # startup-acquisition-insolvency-tracker
-### A set of Python scripts that detects if a UK startup has been acquired by a tech giant - or gone insolvent
+### Python scripts that detect if a UK startup has been acquired by a tech giant - or gone insolvent
 
 This repo firstly contains a set of scripts coded in Python that when used together detect if a UK startup has been acquired by a tech giant like Apple or Facebook. The scripts match a pre-gathered list of UK startup names, sourced from sites like AngelList and Crunchbase, with new account filings on Companies House via the registrar's API, checking if a tech giant's name or address has appeared, flagging this may mean an acquisition.
 
