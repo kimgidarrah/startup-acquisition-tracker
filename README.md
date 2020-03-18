@@ -13,7 +13,7 @@ It uses the following Python modules:
 
 ## Further info
 
-The code is hosted on PythonAnywhere.com.
+The code is actively being run at the moment via hosting on PythonAnywhere.com.
 
 By Kim Darrah.
 
