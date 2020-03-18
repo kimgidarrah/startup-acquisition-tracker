@@ -1,7 +1,7 @@
 # startup-acquisition-tracker
 ### A of Python scripts that detects if a UK startup has been acquired by a tech giant
 
-This repo contains a set of scripts coded in Python that when used together. The scripts, having been passed a pre-gathered set of names of UK
+This repo contains a set of scripts coded in Python that when used together can detect if a UK startup has been acquired by a tech giant like Apple or Facebook. The scripts match a pre-gathered list of UK startup names, sourced from sites like AngelList and Crunchbase, with listings on Companies House, 
 
 It relies on the following Python modules
 - ```fuzzywuzzy``` A package for fuzzy matching strings. This is used by the scripts to match startup names with companies listed on Companies House
